@@ -1,0 +1,7 @@
+*.o
+hash
+*.d
+*.so
+*.a
+.DS_Store
+*.out

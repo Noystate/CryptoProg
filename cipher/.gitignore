@@ -1,0 +1,9 @@
+*.o
+cipher
+*.d
+*.so
+*.a
+.DS_Store
+*.out
+*.enc
+*.dec
